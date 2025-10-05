@@ -1,3 +1,5 @@
+![Splunk Dashboard Showing Priviledge Logins and Potential Brute Force Detection](https://github.com/user-attachments/assets/1cb0ab0e-be05-4ae4-8e38-6ed36f96688d)
+![Splunk Dashboard Showing Failed and Succesull Logins](https://github.com/user-attachments/assets/d8816ae3-dcba-455c-998b-3a36ea7efe6a)
 🔐 Brute Force Detection Using Splunk
 
 📘 Project Overview
