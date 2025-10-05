@@ -1,5 +1,3 @@
-![Splunk Dashboard Showing Priviledge Logins and Potential Brute Force Detection](https://github.com/user-attachments/assets/1cb0ab0e-be05-4ae4-8e38-6ed36f96688d)
-![Splunk Dashboard Showing Failed and Succesull Logins](https://github.com/user-attachments/assets/d8816ae3-dcba-455c-998b-3a36ea7efe6a)
 🔐 Brute Force Detection Using Splunk
 
 📘 Project Overview
@@ -141,3 +139,8 @@ SPL-based log correlation
 Building a security monitoring dashboard
 
 Real-world alert creation and validation
+![Splunk Dashboard Showing Priviledge Logins and Potential Brute Force Detection](https://github.com/user-attachments/assets/a68d7c91-17bf-4332-8858-9bef27c20b16)
+![Splunk Dashboard Showing Failed and Succesull Logins](https://github.com/user-attachments/assets/c9a3d4ff-c420-4554-bcd0-7e730fa8f452)
+![Brute Force Alert](https://github.com/user-attachments/assets/207e5fe4-f9a7-4c29-ae06-9d22f238a56d)
+
+
